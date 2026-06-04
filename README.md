@@ -61,8 +61,10 @@ void main() {
     printf("\n\nALL FRAMES RECEIVED SUCCESSFULLY\n\n");
 }
 
-🖥️ Sample Output
-<img width="1236" height="1108" alt="code block 2" src="https://github.com/user-attachments/assets/49621d52-6eda-4d7e-85e0-49a6ad75a1d6" />
+🖥️ Output
+
+<img width="928" height="1168" alt="image" src="https://github.com/user-attachments/assets/e7934feb-037a-4538-a4c6-7b47a43bcbde" />
+
 
 ✅ Result
 
